@@ -1,0 +1,29 @@
+**IN HET KORT**
+
+Mijn code tekent vierkantjes alsof er een lijn wordt getekend die tegen de zijkanten van het venster stuiteren.
+De snelheden en grootten zijn willekeurig en zorgt dus telkens voor een ander uniek eindresultaat.
+De kleur wordt uit de afbeelding van het kunstwerk gehaald als referentie materiaal.
+Na ongeveer 7000 frames stopt de code en is dit het eindresultaat.
+
+
+**HOE TE OPENEN**
+Om het programma te bekijken moet u Processing 1.5.1 downloaden.
+Dit is een gratis programma om code mee te schrijven gebasseerd op Java en hiermee kunt u zowel de broncode als het de werkign ervan bekijken.
+Open het bestand < eskensmaikel_mondriaan_final.pde > met Processing en klik op de 'speel af' knop rechtsbovenin.
+
+Een andere simpelere manier om het programma van mij te bekijken is door naar het mapje APPLET te gaan en index.html te openen.
+
+Link naar de online versie: http://student-kmt.hku.nl/~maikel0/content/mondriaan/
+
+
+BRONCODE
+Om de broncode te bekijken kunt u het bestand < eskensmaikel_mondriaan_final.pde > openen OF in het mapje APPLET het bestand
+< eskensmaikel_mondriaan_final.java > openen met bijv. kladblok of Notepad++. Elk textbewerkingsprogramma werkt hiervoor.
+
+
+**CONTACT**
+Maikel Eskens
+
+maikeleskens@gmail.com
+06-31552162
+
